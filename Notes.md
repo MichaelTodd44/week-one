@@ -1,1 +1,6 @@
-
+First and foremost, even as someone who is currently undertaking a minor in Medieval History, the term itself 'Digatal history' is rather foreign to me. There, I did a little bit of research into what Digital history is as a core value to get some background. This was evfen more reinforced when I read the thread by Amalia Skarlatou via Twitter.
+Set up my git-hub, and created the numerous respositories as was requested
+I already had Hypothesis downloaded due to the fact I took the MEMS course with Marc Saruette which is 'Discovering the Medieval and Early Modern Past'
+Downloaded Zotero, and actually used Zotero as a consistent tool I'm going to use for my many other classes. 
+Looked over the Value of Proceedings as a Historical Source as it was the first item that Amalia had put within her Twitter thread, so I may understand what she was relaying. This caught my attention due to the fact my Major at Carleton University is Criminoly itself, with a focus in Psychology. However, being Criminology allows me to branch into three different aspects of Psychology, Sociology and Law. Reason I read the Proceeding was due to its direct relation to Law, and the records of law. 
+Read The Project Overview as its name enticed me, read the Deconlizing the Archive, Research Guides, and lastly I read the Disclaimer and Usage Statement. As I stated before, it caught my eye due to the fact it had the National Police of Guatamala, and her wordings made me dig into what she stated. 
